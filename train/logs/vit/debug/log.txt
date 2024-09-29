@@ -1,0 +1,580 @@
+[INFO: 2024-09-28 15:13:56,132] Epoch 0 Batch 0 Loss 15.116, ICI Loss 1.655, Entropy loss 13.461.
+[INFO: 2024-09-28 15:14:27,894] Epoch 0 Batch 50 Loss 13.995, ICI Loss 1.340, Entropy loss 12.655.
+[INFO: 2024-09-28 15:15:01,278] Epoch 0 Batch 100 Loss 13.721, ICI Loss 1.293, Entropy loss 12.428.
+[INFO: 2024-09-28 15:15:32,841] Epoch 0 Batch 150 Loss 14.115, ICI Loss 1.441, Entropy loss 12.674.
+[INFO: 2024-09-28 15:16:06,084] Epoch 0 Batch 200 Loss 13.799, ICI Loss 1.123, Entropy loss 12.676.
+[INFO: 2024-09-28 15:16:37,469] Epoch 0 Batch 250 Loss 13.948, ICI Loss 1.065, Entropy loss 12.882.
+[INFO: 2024-09-28 15:17:10,302] Epoch 0 Batch 300 Loss 16.945, ICI Loss 1.101, Entropy loss 15.845.
+[INFO: 2024-09-28 15:17:42,059] Epoch 0 Batch 350 Loss 13.849, ICI Loss 0.973, Entropy loss 12.875.
+[INFO: 2024-09-28 15:17:48,530] Epoch 1 Batch 0 Loss 14.089, ICI Loss 1.135, Entropy loss 12.954.
+[INFO: 2024-09-28 15:18:19,898] Epoch 1 Batch 50 Loss 14.578, ICI Loss 1.317, Entropy loss 13.261.
+[INFO: 2024-09-28 15:18:53,096] Epoch 1 Batch 100 Loss 14.055, ICI Loss 1.101, Entropy loss 12.954.
+[INFO: 2024-09-28 15:19:26,386] Epoch 1 Batch 150 Loss 14.795, ICI Loss 1.215, Entropy loss 13.580.
+[INFO: 2024-09-28 15:19:58,848] Epoch 1 Batch 200 Loss 14.550, ICI Loss 1.411, Entropy loss 13.139.
+[INFO: 2024-09-28 15:20:31,880] Epoch 1 Batch 250 Loss 14.255, ICI Loss 0.996, Entropy loss 13.259.
+[INFO: 2024-09-28 15:21:04,309] Epoch 1 Batch 300 Loss 15.077, ICI Loss 1.701, Entropy loss 13.376.
+[INFO: 2024-09-28 15:21:37,602] Epoch 1 Batch 350 Loss 14.869, ICI Loss 1.430, Entropy loss 13.439.
+[INFO: 2024-09-28 15:21:44,271] Epoch 2 Batch 0 Loss 14.835, ICI Loss 1.456, Entropy loss 13.379.
+[INFO: 2024-09-28 15:22:15,781] Epoch 2 Batch 50 Loss 14.854, ICI Loss 1.721, Entropy loss 13.133.
+[INFO: 2024-09-28 15:22:48,119] Epoch 2 Batch 100 Loss 14.806, ICI Loss 1.553, Entropy loss 13.253.
+[INFO: 2024-09-28 15:23:20,009] Epoch 2 Batch 150 Loss 14.461, ICI Loss 1.131, Entropy loss 13.330.
+[INFO: 2024-09-28 15:23:51,309] Epoch 2 Batch 200 Loss 14.701, ICI Loss 1.220, Entropy loss 13.481.
+[INFO: 2024-09-28 15:24:24,885] Epoch 2 Batch 250 Loss 14.772, ICI Loss 1.307, Entropy loss 13.464.
+[INFO: 2024-09-28 15:24:55,960] Epoch 2 Batch 300 Loss 14.607, ICI Loss 1.313, Entropy loss 13.294.
+[INFO: 2024-09-28 15:25:29,202] Epoch 2 Batch 350 Loss 14.952, ICI Loss 1.513, Entropy loss 13.439.
+[INFO: 2024-09-28 15:25:35,620] Epoch 3 Batch 0 Loss 14.686, ICI Loss 1.452, Entropy loss 13.234.
+[INFO: 2024-09-28 15:26:06,873] Epoch 3 Batch 50 Loss 14.732, ICI Loss 1.437, Entropy loss 13.295.
+[INFO: 2024-09-28 15:26:39,396] Epoch 3 Batch 100 Loss 15.518, ICI Loss 2.128, Entropy loss 13.389.
+[INFO: 2024-09-28 15:27:10,866] Epoch 3 Batch 150 Loss 14.992, ICI Loss 1.816, Entropy loss 13.176.
+[INFO: 2024-09-28 15:27:44,276] Epoch 3 Batch 200 Loss 14.696, ICI Loss 1.326, Entropy loss 13.370.
+[INFO: 2024-09-28 15:28:15,556] Epoch 3 Batch 250 Loss 14.670, ICI Loss 1.419, Entropy loss 13.251.
+[INFO: 2024-09-28 15:28:46,932] Epoch 3 Batch 300 Loss 14.570, ICI Loss 1.530, Entropy loss 13.040.
+[INFO: 2024-09-28 15:29:16,450] Epoch 3 Batch 350 Loss 14.687, ICI Loss 1.349, Entropy loss 13.337.
+[INFO: 2024-09-28 15:29:23,025] Epoch 4 Batch 0 Loss 14.569, ICI Loss 1.305, Entropy loss 13.264.
+[INFO: 2024-09-28 15:29:54,528] Epoch 4 Batch 50 Loss 14.800, ICI Loss 1.402, Entropy loss 13.397.
+[INFO: 2024-09-28 15:30:26,373] Epoch 4 Batch 100 Loss 14.404, ICI Loss 1.217, Entropy loss 13.187.
+[INFO: 2024-09-28 15:30:57,285] Epoch 4 Batch 150 Loss 14.584, ICI Loss 1.420, Entropy loss 13.164.
+[INFO: 2024-09-28 15:31:29,619] Epoch 4 Batch 200 Loss 15.101, ICI Loss 1.664, Entropy loss 13.438.
+[INFO: 2024-09-28 15:32:00,976] Epoch 4 Batch 250 Loss 14.619, ICI Loss 1.512, Entropy loss 13.107.
+[INFO: 2024-09-28 15:32:32,853] Epoch 4 Batch 300 Loss 15.013, ICI Loss 1.685, Entropy loss 13.328.
+[INFO: 2024-09-28 15:33:04,801] Epoch 4 Batch 350 Loss 14.353, ICI Loss 1.108, Entropy loss 13.245.
+[INFO: 2024-09-28 15:33:11,440] Epoch 5 Batch 0 Loss 14.429, ICI Loss 1.466, Entropy loss 12.963.
+[INFO: 2024-09-28 15:33:43,301] Epoch 5 Batch 50 Loss 14.386, ICI Loss 1.291, Entropy loss 13.096.
+[INFO: 2024-09-28 15:34:14,656] Epoch 5 Batch 100 Loss 14.700, ICI Loss 1.521, Entropy loss 13.179.
+[INFO: 2024-09-28 15:34:47,460] Epoch 5 Batch 150 Loss 14.017, ICI Loss 1.063, Entropy loss 12.954.
+[INFO: 2024-09-28 15:35:18,649] Epoch 5 Batch 200 Loss 14.183, ICI Loss 0.970, Entropy loss 13.213.
+[INFO: 2024-09-28 15:35:51,714] Epoch 5 Batch 250 Loss 14.245, ICI Loss 1.213, Entropy loss 13.032.
+[INFO: 2024-09-28 15:36:22,743] Epoch 5 Batch 300 Loss 14.576, ICI Loss 1.542, Entropy loss 13.034.
+[INFO: 2024-09-28 15:36:55,677] Epoch 5 Batch 350 Loss 14.879, ICI Loss 1.870, Entropy loss 13.008.
+[INFO: 2024-09-28 15:37:02,276] Epoch 6 Batch 0 Loss 14.768, ICI Loss 1.636, Entropy loss 13.132.
+[INFO: 2024-09-28 15:37:33,604] Epoch 6 Batch 50 Loss 14.536, ICI Loss 1.457, Entropy loss 13.079.
+[INFO: 2024-09-28 15:38:07,397] Epoch 6 Batch 100 Loss 15.192, ICI Loss 1.300, Entropy loss 13.892.
+[INFO: 2024-09-28 15:38:38,880] Epoch 6 Batch 150 Loss 14.193, ICI Loss 1.271, Entropy loss 12.923.
+[INFO: 2024-09-28 18:14:37,166] Epoch 0 Batch 0 Loss 14.186, ICI Loss 0.634, Entropy loss 13.552.
+[INFO: 2024-09-28 18:15:16,330] Epoch 0 Batch 0 Loss 14.209, ICI Loss 0.634, Entropy loss 13.576.
+[INFO: 2024-09-28 18:15:39,511] Epoch 0 Batch 50 Loss 13.186, ICI Loss 0.619, Entropy loss 12.567.
+[INFO: 2024-09-28 18:16:05,471] Epoch 0 Batch 100 Loss 13.189, ICI Loss 0.894, Entropy loss 12.295.
+[INFO: 2024-09-28 18:16:28,943] Epoch 0 Batch 150 Loss 13.120, ICI Loss 0.690, Entropy loss 12.430.
+[INFO: 2024-09-28 18:16:53,813] Epoch 0 Batch 200 Loss 13.045, ICI Loss 0.573, Entropy loss 12.471.
+[INFO: 2024-09-28 18:17:19,290] Epoch 0 Batch 250 Loss 13.459, ICI Loss 0.732, Entropy loss 12.727.
+[INFO: 2024-09-28 18:17:43,777] Epoch 0 Batch 300 Loss 12.791, ICI Loss 0.201, Entropy loss 12.590.
+[INFO: 2024-09-28 18:17:48,674] Epoch 1 Batch 0 Loss 13.066, ICI Loss 0.402, Entropy loss 12.663.
+[INFO: 2024-09-28 18:18:13,511] Epoch 1 Batch 50 Loss 13.180, ICI Loss 0.267, Entropy loss 12.913.
+[INFO: 2024-09-28 18:18:38,212] Epoch 1 Batch 100 Loss 13.275, ICI Loss 0.457, Entropy loss 12.818.
+[INFO: 2024-09-28 18:19:03,271] Epoch 1 Batch 150 Loss 14.194, ICI Loss 0.587, Entropy loss 13.608.
+[INFO: 2024-09-28 18:19:28,668] Epoch 1 Batch 200 Loss 13.196, ICI Loss 0.245, Entropy loss 12.950.
+[INFO: 2024-09-28 18:19:54,060] Epoch 1 Batch 250 Loss 14.156, ICI Loss 0.937, Entropy loss 13.219.
+[INFO: 2024-09-28 18:20:19,323] Epoch 1 Batch 300 Loss 13.972, ICI Loss 0.672, Entropy loss 13.300.
+[INFO: 2024-09-28 18:20:23,568] Epoch 2 Batch 0 Loss 14.544, ICI Loss 0.525, Entropy loss 14.018.
+[INFO: 2024-09-28 18:20:48,559] Epoch 2 Batch 50 Loss 14.823, ICI Loss 1.258, Entropy loss 13.565.
+[INFO: 2024-09-28 18:21:12,892] Epoch 2 Batch 100 Loss 13.899, ICI Loss 0.624, Entropy loss 13.275.
+[INFO: 2024-09-28 18:21:38,304] Epoch 2 Batch 150 Loss 13.772, ICI Loss 0.800, Entropy loss 12.973.
+[INFO: 2024-09-28 18:22:02,439] Epoch 2 Batch 200 Loss 13.990, ICI Loss 0.754, Entropy loss 13.236.
+[INFO: 2024-09-28 18:22:27,660] Epoch 2 Batch 250 Loss 13.667, ICI Loss 0.564, Entropy loss 13.103.
+[INFO: 2024-09-28 18:22:51,744] Epoch 2 Batch 300 Loss 13.975, ICI Loss 0.833, Entropy loss 13.142.
+[INFO: 2024-09-28 18:22:56,763] Epoch 3 Batch 0 Loss 14.273, ICI Loss 0.831, Entropy loss 13.442.
+[INFO: 2024-09-28 18:23:21,129] Epoch 3 Batch 50 Loss 13.777, ICI Loss 0.672, Entropy loss 13.104.
+[INFO: 2024-09-28 18:23:46,038] Epoch 3 Batch 100 Loss 13.901, ICI Loss 0.740, Entropy loss 13.161.
+[INFO: 2024-09-28 18:24:10,770] Epoch 3 Batch 150 Loss 17.032, ICI Loss 0.961, Entropy loss 16.071.
+[INFO: 2024-09-28 18:24:35,754] Epoch 3 Batch 200 Loss 14.314, ICI Loss 1.243, Entropy loss 13.071.
+[INFO: 2024-09-28 18:25:01,108] Epoch 3 Batch 250 Loss 13.931, ICI Loss 1.010, Entropy loss 12.921.
+[INFO: 2024-09-28 18:25:24,745] Epoch 3 Batch 300 Loss 13.570, ICI Loss 0.556, Entropy loss 13.014.
+[INFO: 2024-09-28 18:25:29,899] Epoch 4 Batch 0 Loss 13.986, ICI Loss 0.876, Entropy loss 13.110.
+[INFO: 2024-09-28 18:25:55,136] Epoch 4 Batch 50 Loss 13.977, ICI Loss 0.877, Entropy loss 13.100.
+[INFO: 2024-09-28 18:26:21,762] Epoch 4 Batch 100 Loss 14.244, ICI Loss 0.949, Entropy loss 13.295.
+[INFO: 2024-09-28 18:26:46,209] Epoch 4 Batch 150 Loss 14.137, ICI Loss 1.168, Entropy loss 12.969.
+[INFO: 2024-09-28 18:27:12,173] Epoch 4 Batch 200 Loss 13.917, ICI Loss 0.858, Entropy loss 13.059.
+[INFO: 2024-09-28 18:27:37,086] Epoch 4 Batch 250 Loss 14.341, ICI Loss 1.092, Entropy loss 13.249.
+[INFO: 2024-09-28 18:28:02,713] Epoch 4 Batch 300 Loss 13.730, ICI Loss 0.600, Entropy loss 13.130.
+[INFO: 2024-09-28 18:28:06,762] Epoch 5 Batch 0 Loss 13.916, ICI Loss 0.903, Entropy loss 13.013.
+[INFO: 2024-09-28 18:28:31,762] Epoch 5 Batch 50 Loss 13.591, ICI Loss 0.508, Entropy loss 13.083.
+[INFO: 2024-09-28 18:28:57,222] Epoch 5 Batch 100 Loss 13.842, ICI Loss 0.814, Entropy loss 13.028.
+[INFO: 2024-09-28 18:29:21,440] Epoch 5 Batch 150 Loss 13.912, ICI Loss 0.984, Entropy loss 12.928.
+[INFO: 2024-09-28 18:29:47,257] Epoch 5 Batch 200 Loss 13.489, ICI Loss 0.583, Entropy loss 12.906.
+[INFO: 2024-09-28 18:30:11,744] Epoch 5 Batch 250 Loss 13.905, ICI Loss 0.969, Entropy loss 12.936.
+[INFO: 2024-09-28 18:30:36,940] Epoch 5 Batch 300 Loss 13.046, ICI Loss 0.259, Entropy loss 12.788.
+[INFO: 2024-09-28 18:30:40,994] Epoch 6 Batch 0 Loss 14.043, ICI Loss 1.107, Entropy loss 12.936.
+[INFO: 2024-09-28 18:31:05,645] Epoch 6 Batch 50 Loss 13.861, ICI Loss 0.747, Entropy loss 13.113.
+[INFO: 2024-09-28 18:31:31,142] Epoch 6 Batch 100 Loss 13.559, ICI Loss 0.650, Entropy loss 12.910.
+[INFO: 2024-09-28 18:31:55,215] Epoch 6 Batch 150 Loss 14.121, ICI Loss 1.139, Entropy loss 12.982.
+[INFO: 2024-09-28 18:32:19,920] Epoch 6 Batch 200 Loss 14.366, ICI Loss 0.964, Entropy loss 13.403.
+[INFO: 2024-09-28 18:32:43,924] Epoch 6 Batch 250 Loss 13.808, ICI Loss 0.810, Entropy loss 12.999.
+[INFO: 2024-09-28 18:33:09,151] Epoch 6 Batch 300 Loss 13.558, ICI Loss 0.616, Entropy loss 12.941.
+[INFO: 2024-09-28 18:33:13,244] Epoch 7 Batch 0 Loss 13.778, ICI Loss 0.938, Entropy loss 12.841.
+[INFO: 2024-09-28 18:33:37,743] Epoch 7 Batch 50 Loss 13.614, ICI Loss 0.677, Entropy loss 12.937.
+[INFO: 2024-09-28 18:34:02,808] Epoch 7 Batch 100 Loss 13.855, ICI Loss 0.942, Entropy loss 12.913.
+[INFO: 2024-09-28 18:34:28,279] Epoch 7 Batch 150 Loss 13.654, ICI Loss 0.803, Entropy loss 12.850.
+[INFO: 2024-09-28 18:34:52,593] Epoch 7 Batch 200 Loss 13.884, ICI Loss 1.212, Entropy loss 12.672.
+[INFO: 2024-09-28 18:35:17,842] Epoch 7 Batch 250 Loss 13.499, ICI Loss 0.619, Entropy loss 12.881.
+[INFO: 2024-09-28 18:35:42,174] Epoch 7 Batch 300 Loss 13.575, ICI Loss 0.657, Entropy loss 12.918.
+[INFO: 2024-09-28 18:35:46,934] Epoch 8 Batch 0 Loss 13.389, ICI Loss 0.552, Entropy loss 12.836.
+[INFO: 2024-09-28 18:36:11,428] Epoch 8 Batch 50 Loss 13.686, ICI Loss 0.789, Entropy loss 12.897.
+[INFO: 2024-09-28 18:36:36,916] Epoch 8 Batch 100 Loss 14.213, ICI Loss 1.077, Entropy loss 13.135.
+[INFO: 2024-09-28 18:37:01,281] Epoch 8 Batch 150 Loss 13.783, ICI Loss 0.818, Entropy loss 12.965.
+[INFO: 2024-09-28 18:37:26,786] Epoch 8 Batch 200 Loss 13.519, ICI Loss 0.714, Entropy loss 12.805.
+[INFO: 2024-09-28 18:37:51,824] Epoch 8 Batch 250 Loss 13.613, ICI Loss 0.734, Entropy loss 12.879.
+[INFO: 2024-09-28 18:38:17,366] Epoch 8 Batch 300 Loss 13.489, ICI Loss 0.585, Entropy loss 12.904.
+[INFO: 2024-09-28 18:38:21,216] Epoch 9 Batch 0 Loss 13.696, ICI Loss 0.950, Entropy loss 12.745.
+[INFO: 2024-09-28 18:38:45,884] Epoch 9 Batch 50 Loss 14.067, ICI Loss 1.257, Entropy loss 12.809.
+[INFO: 2024-09-28 18:39:11,249] Epoch 9 Batch 100 Loss 13.941, ICI Loss 1.071, Entropy loss 12.870.
+[INFO: 2024-09-28 18:39:35,402] Epoch 9 Batch 150 Loss 13.571, ICI Loss 0.649, Entropy loss 12.922.
+[INFO: 2024-09-28 18:40:00,781] Epoch 9 Batch 200 Loss 13.594, ICI Loss 0.829, Entropy loss 12.765.
+[INFO: 2024-09-28 18:40:24,775] Epoch 9 Batch 250 Loss 13.828, ICI Loss 0.807, Entropy loss 13.021.
+[INFO: 2024-09-28 18:40:49,551] Epoch 9 Batch 300 Loss 13.660, ICI Loss 0.848, Entropy loss 12.812.
+[INFO: 2024-09-28 18:40:53,351] Epoch 10 Batch 0 Loss 13.405, ICI Loss 0.518, Entropy loss 12.887.
+[INFO: 2024-09-28 18:41:17,776] Epoch 10 Batch 50 Loss 13.893, ICI Loss 0.988, Entropy loss 12.905.
+[INFO: 2024-09-28 18:41:43,803] Epoch 10 Batch 100 Loss 13.898, ICI Loss 1.083, Entropy loss 12.815.
+[INFO: 2024-09-28 18:42:08,626] Epoch 10 Batch 150 Loss 14.153, ICI Loss 1.027, Entropy loss 13.126.
+[INFO: 2024-09-28 18:42:34,141] Epoch 10 Batch 200 Loss 13.544, ICI Loss 0.626, Entropy loss 12.917.
+[INFO: 2024-09-28 18:42:59,149] Epoch 10 Batch 250 Loss 13.315, ICI Loss 0.735, Entropy loss 12.579.
+[INFO: 2024-09-28 18:43:25,491] Epoch 10 Batch 300 Loss 13.821, ICI Loss 0.897, Entropy loss 12.924.
+[INFO: 2024-09-28 18:43:29,488] Epoch 11 Batch 0 Loss 13.479, ICI Loss 0.522, Entropy loss 12.957.
+[INFO: 2024-09-28 18:43:53,507] Epoch 11 Batch 50 Loss 13.759, ICI Loss 0.935, Entropy loss 12.825.
+[INFO: 2024-09-28 18:44:19,472] Epoch 11 Batch 100 Loss 13.579, ICI Loss 0.876, Entropy loss 12.703.
+[INFO: 2024-09-28 18:44:44,613] Epoch 11 Batch 150 Loss 13.739, ICI Loss 0.851, Entropy loss 12.888.
+[INFO: 2024-09-28 18:45:10,388] Epoch 11 Batch 200 Loss 13.864, ICI Loss 0.991, Entropy loss 12.873.
+[INFO: 2024-09-28 18:45:34,419] Epoch 11 Batch 250 Loss 13.007, ICI Loss 0.371, Entropy loss 12.636.
+[INFO: 2024-09-28 18:45:59,396] Epoch 11 Batch 300 Loss 13.265, ICI Loss 0.622, Entropy loss 12.644.
+[INFO: 2024-09-28 18:46:03,309] Epoch 12 Batch 0 Loss 13.768, ICI Loss 1.063, Entropy loss 12.705.
+[INFO: 2024-09-28 18:46:28,023] Epoch 12 Batch 50 Loss 13.199, ICI Loss 0.467, Entropy loss 12.732.
+[INFO: 2024-09-28 18:46:53,350] Epoch 12 Batch 100 Loss 13.123, ICI Loss 0.506, Entropy loss 12.617.
+[INFO: 2024-09-28 18:47:17,274] Epoch 12 Batch 150 Loss 17.237, ICI Loss 0.891, Entropy loss 16.346.
+[INFO: 2024-09-28 18:47:42,012] Epoch 12 Batch 200 Loss 13.374, ICI Loss 0.497, Entropy loss 12.877.
+[INFO: 2024-09-28 18:48:05,685] Epoch 12 Batch 250 Loss 13.329, ICI Loss 0.431, Entropy loss 12.898.
+[INFO: 2024-09-28 18:48:30,025] Epoch 12 Batch 300 Loss 13.205, ICI Loss 0.526, Entropy loss 12.679.
+[INFO: 2024-09-28 18:48:34,397] Epoch 13 Batch 0 Loss 13.204, ICI Loss 0.441, Entropy loss 12.763.
+[INFO: 2024-09-28 18:48:59,198] Epoch 13 Batch 50 Loss 13.759, ICI Loss 0.954, Entropy loss 12.805.
+[INFO: 2024-09-28 18:49:24,189] Epoch 13 Batch 100 Loss 13.371, ICI Loss 0.597, Entropy loss 12.774.
+[INFO: 2024-09-28 18:49:50,018] Epoch 13 Batch 150 Loss 13.643, ICI Loss 1.012, Entropy loss 12.631.
+[INFO: 2024-09-28 18:50:13,891] Epoch 13 Batch 200 Loss 13.429, ICI Loss 0.675, Entropy loss 12.754.
+[INFO: 2024-09-28 18:50:38,623] Epoch 13 Batch 250 Loss 13.275, ICI Loss 0.513, Entropy loss 12.761.
+[INFO: 2024-09-28 18:51:02,518] Epoch 13 Batch 300 Loss 13.382, ICI Loss 0.659, Entropy loss 12.723.
+[INFO: 2024-09-28 18:51:07,626] Epoch 14 Batch 0 Loss 13.512, ICI Loss 0.689, Entropy loss 12.823.
+[INFO: 2024-09-28 18:51:31,876] Epoch 14 Batch 50 Loss 13.245, ICI Loss 0.524, Entropy loss 12.722.
+[INFO: 2024-09-28 18:51:57,105] Epoch 14 Batch 100 Loss 13.325, ICI Loss 0.590, Entropy loss 12.735.
+[INFO: 2024-09-28 18:52:21,887] Epoch 14 Batch 150 Loss 13.321, ICI Loss 0.699, Entropy loss 12.622.
+[INFO: 2024-09-28 18:52:47,752] Epoch 14 Batch 200 Loss 13.705, ICI Loss 0.908, Entropy loss 12.797.
+[INFO: 2024-09-28 18:53:12,027] Epoch 14 Batch 250 Loss 13.542, ICI Loss 0.882, Entropy loss 12.660.
+[INFO: 2024-09-28 18:53:37,832] Epoch 14 Batch 300 Loss 13.612, ICI Loss 0.932, Entropy loss 12.679.
+[INFO: 2024-09-28 18:53:41,727] Epoch 15 Batch 0 Loss 13.239, ICI Loss 0.685, Entropy loss 12.554.
+[INFO: 2024-09-28 18:54:06,760] Epoch 15 Batch 50 Loss 13.293, ICI Loss 0.653, Entropy loss 12.640.
+[INFO: 2024-09-28 18:54:32,448] Epoch 15 Batch 100 Loss 13.481, ICI Loss 0.805, Entropy loss 12.676.
+[INFO: 2024-09-28 18:54:56,546] Epoch 15 Batch 150 Loss 13.648, ICI Loss 0.888, Entropy loss 12.760.
+[INFO: 2024-09-28 18:55:22,027] Epoch 15 Batch 200 Loss 12.922, ICI Loss 0.227, Entropy loss 12.695.
+[INFO: 2024-09-28 18:55:46,025] Epoch 15 Batch 250 Loss 13.184, ICI Loss 0.609, Entropy loss 12.575.
+[INFO: 2024-09-28 18:56:11,234] Epoch 15 Batch 300 Loss 13.483, ICI Loss 0.873, Entropy loss 12.610.
+[INFO: 2024-09-28 18:56:15,068] Epoch 16 Batch 0 Loss 13.326, ICI Loss 0.655, Entropy loss 12.672.
+[INFO: 2024-09-28 18:56:39,907] Epoch 16 Batch 50 Loss 13.530, ICI Loss 0.888, Entropy loss 12.642.
+[INFO: 2024-09-28 18:57:04,621] Epoch 16 Batch 100 Loss 13.087, ICI Loss 0.434, Entropy loss 12.653.
+[INFO: 2024-09-28 18:57:30,055] Epoch 16 Batch 150 Loss 13.616, ICI Loss 0.886, Entropy loss 12.731.
+[INFO: 2024-09-28 18:57:54,434] Epoch 16 Batch 200 Loss 13.008, ICI Loss 0.462, Entropy loss 12.546.
+[INFO: 2024-09-28 18:58:19,784] Epoch 16 Batch 250 Loss 13.347, ICI Loss 0.734, Entropy loss 12.613.
+[INFO: 2024-09-28 18:58:43,668] Epoch 16 Batch 300 Loss 13.296, ICI Loss 0.781, Entropy loss 12.515.
+[INFO: 2024-09-28 18:58:48,723] Epoch 17 Batch 0 Loss 13.575, ICI Loss 0.987, Entropy loss 12.588.
+[INFO: 2024-09-28 18:59:13,705] Epoch 17 Batch 50 Loss 13.196, ICI Loss 0.583, Entropy loss 12.613.
+[INFO: 2024-09-28 18:59:39,008] Epoch 17 Batch 100 Loss 13.184, ICI Loss 0.521, Entropy loss 12.663.
+[INFO: 2024-09-28 19:00:03,983] Epoch 17 Batch 150 Loss 13.302, ICI Loss 0.610, Entropy loss 12.693.
+[INFO: 2024-09-28 19:00:28,744] Epoch 17 Batch 200 Loss 13.048, ICI Loss 0.486, Entropy loss 12.563.
+[INFO: 2024-09-28 19:00:54,330] Epoch 17 Batch 250 Loss 13.562, ICI Loss 0.935, Entropy loss 12.627.
+[INFO: 2024-09-28 19:01:18,957] Epoch 17 Batch 300 Loss 13.543, ICI Loss 0.863, Entropy loss 12.680.
+[INFO: 2024-09-28 19:01:23,754] Epoch 18 Batch 0 Loss 13.011, ICI Loss 0.414, Entropy loss 12.597.
+[INFO: 2024-09-28 19:01:48,253] Epoch 18 Batch 50 Loss 13.314, ICI Loss 0.565, Entropy loss 12.749.
+[INFO: 2024-09-28 19:02:13,949] Epoch 18 Batch 100 Loss 13.195, ICI Loss 0.584, Entropy loss 12.611.
+[INFO: 2024-09-28 19:02:38,440] Epoch 18 Batch 150 Loss 12.897, ICI Loss 0.354, Entropy loss 12.543.
+[INFO: 2024-09-28 19:03:04,235] Epoch 18 Batch 200 Loss 13.490, ICI Loss 0.824, Entropy loss 12.666.
+[INFO: 2024-09-28 19:03:28,374] Epoch 18 Batch 250 Loss 12.794, ICI Loss 0.269, Entropy loss 12.525.
+[INFO: 2024-09-28 19:03:53,517] Epoch 18 Batch 300 Loss 13.490, ICI Loss 0.902, Entropy loss 12.588.
+[INFO: 2024-09-28 19:03:57,490] Epoch 19 Batch 0 Loss 13.342, ICI Loss 0.782, Entropy loss 12.560.
+[INFO: 2024-09-28 19:04:21,947] Epoch 19 Batch 50 Loss 13.295, ICI Loss 0.637, Entropy loss 12.658.
+[INFO: 2024-09-28 19:04:47,087] Epoch 19 Batch 100 Loss 13.526, ICI Loss 0.992, Entropy loss 12.533.
+[INFO: 2024-09-28 19:05:11,239] Epoch 19 Batch 150 Loss 13.610, ICI Loss 0.761, Entropy loss 12.849.
+[INFO: 2024-09-28 19:05:35,574] Epoch 19 Batch 200 Loss 13.477, ICI Loss 0.870, Entropy loss 12.607.
+[INFO: 2024-09-28 19:06:00,982] Epoch 19 Batch 250 Loss 13.344, ICI Loss 0.678, Entropy loss 12.666.
+[INFO: 2024-09-28 19:06:25,427] Epoch 19 Batch 300 Loss 13.369, ICI Loss 0.645, Entropy loss 12.724.
+[INFO: 2024-09-28 19:06:30,274] Epoch 20 Batch 0 Loss 13.208, ICI Loss 0.414, Entropy loss 12.794.
+[INFO: 2024-09-28 19:06:54,775] Epoch 20 Batch 50 Loss 13.467, ICI Loss 0.835, Entropy loss 12.632.
+[INFO: 2024-09-28 19:07:20,046] Epoch 20 Batch 100 Loss 13.159, ICI Loss 0.505, Entropy loss 12.653.
+[INFO: 2024-09-28 19:07:43,892] Epoch 20 Batch 150 Loss 13.094, ICI Loss 0.484, Entropy loss 12.610.
+[INFO: 2024-09-28 19:08:08,827] Epoch 20 Batch 200 Loss 13.475, ICI Loss 0.885, Entropy loss 12.590.
+[INFO: 2024-09-28 19:08:32,787] Epoch 20 Batch 250 Loss 13.280, ICI Loss 0.728, Entropy loss 12.552.
+[INFO: 2024-09-28 19:08:57,487] Epoch 20 Batch 300 Loss 13.157, ICI Loss 0.644, Entropy loss 12.513.
+[INFO: 2024-09-28 19:09:01,566] Epoch 21 Batch 0 Loss 13.385, ICI Loss 0.754, Entropy loss 12.631.
+[INFO: 2024-09-28 19:09:26,357] Epoch 21 Batch 50 Loss 13.084, ICI Loss 0.438, Entropy loss 12.647.
+[INFO: 2024-09-28 19:09:52,242] Epoch 21 Batch 100 Loss 13.306, ICI Loss 0.473, Entropy loss 12.833.
+[INFO: 2024-09-28 19:10:17,593] Epoch 21 Batch 150 Loss 13.092, ICI Loss 0.631, Entropy loss 12.461.
+[INFO: 2024-09-28 19:10:44,304] Epoch 21 Batch 200 Loss 13.093, ICI Loss 0.598, Entropy loss 12.495.
+[INFO: 2024-09-28 19:11:09,974] Epoch 21 Batch 250 Loss 13.514, ICI Loss 0.860, Entropy loss 12.654.
+[INFO: 2024-09-28 19:11:36,261] Epoch 21 Batch 300 Loss 13.085, ICI Loss 0.527, Entropy loss 12.557.
+[INFO: 2024-09-28 19:11:40,385] Epoch 22 Batch 0 Loss 13.154, ICI Loss 0.526, Entropy loss 12.628.
+[INFO: 2024-09-28 19:12:05,863] Epoch 22 Batch 50 Loss 12.939, ICI Loss 0.356, Entropy loss 12.583.
+[INFO: 2024-09-28 19:12:32,339] Epoch 22 Batch 100 Loss 12.999, ICI Loss 0.553, Entropy loss 12.446.
+[INFO: 2024-09-28 19:12:57,457] Epoch 22 Batch 150 Loss 13.195, ICI Loss 0.664, Entropy loss 12.531.
+[INFO: 2024-09-28 19:13:23,673] Epoch 22 Batch 200 Loss 12.870, ICI Loss 0.376, Entropy loss 12.494.
+[INFO: 2024-09-28 19:13:48,754] Epoch 22 Batch 250 Loss 13.358, ICI Loss 0.887, Entropy loss 12.471.
+[INFO: 2024-09-28 19:14:15,047] Epoch 22 Batch 300 Loss 13.657, ICI Loss 0.844, Entropy loss 12.813.
+[INFO: 2024-09-28 19:14:19,083] Epoch 23 Batch 0 Loss 12.862, ICI Loss 0.431, Entropy loss 12.431.
+[INFO: 2024-09-28 19:14:44,213] Epoch 23 Batch 50 Loss 13.076, ICI Loss 0.654, Entropy loss 12.423.
+[INFO: 2024-09-28 19:15:10,223] Epoch 23 Batch 100 Loss 13.004, ICI Loss 0.675, Entropy loss 12.329.
+[INFO: 2024-09-28 19:15:34,449] Epoch 23 Batch 150 Loss 13.213, ICI Loss 0.582, Entropy loss 12.630.
+[INFO: 2024-09-28 19:16:00,088] Epoch 23 Batch 200 Loss 13.079, ICI Loss 0.591, Entropy loss 12.488.
+[INFO: 2024-09-28 19:16:24,571] Epoch 23 Batch 250 Loss 13.337, ICI Loss 0.832, Entropy loss 12.506.
+[INFO: 2024-09-28 19:16:50,186] Epoch 23 Batch 300 Loss 12.825, ICI Loss 0.373, Entropy loss 12.452.
+[INFO: 2024-09-28 19:16:54,022] Epoch 24 Batch 0 Loss 13.199, ICI Loss 0.746, Entropy loss 12.453.
+[INFO: 2024-09-28 19:17:18,717] Epoch 24 Batch 50 Loss 13.331, ICI Loss 0.778, Entropy loss 12.553.
+[INFO: 2024-09-28 19:17:44,060] Epoch 24 Batch 100 Loss 12.884, ICI Loss 0.475, Entropy loss 12.409.
+[INFO: 2024-09-28 19:18:08,568] Epoch 24 Batch 150 Loss 12.976, ICI Loss 0.486, Entropy loss 12.490.
+[INFO: 2024-09-28 19:18:34,190] Epoch 24 Batch 200 Loss 13.447, ICI Loss 0.934, Entropy loss 12.513.
+[INFO: 2024-09-28 19:18:58,446] Epoch 24 Batch 250 Loss 16.273, ICI Loss 0.708, Entropy loss 15.565.
+[INFO: 2024-09-28 19:19:23,484] Epoch 24 Batch 300 Loss 12.912, ICI Loss 0.504, Entropy loss 12.408.
+[INFO: 2024-09-28 19:19:27,200] Epoch 25 Batch 0 Loss 12.871, ICI Loss 0.520, Entropy loss 12.351.
+[INFO: 2024-09-28 19:19:51,977] Epoch 25 Batch 50 Loss 13.113, ICI Loss 0.466, Entropy loss 12.647.
+[INFO: 2024-09-28 19:20:17,562] Epoch 25 Batch 100 Loss 13.038, ICI Loss 0.535, Entropy loss 12.504.
+[INFO: 2024-09-28 19:20:41,864] Epoch 25 Batch 150 Loss 13.227, ICI Loss 0.618, Entropy loss 12.608.
+[INFO: 2024-09-28 19:21:06,952] Epoch 25 Batch 200 Loss 12.823, ICI Loss 0.488, Entropy loss 12.335.
+[INFO: 2024-09-28 19:21:31,609] Epoch 25 Batch 250 Loss 13.674, ICI Loss 0.716, Entropy loss 12.958.
+[INFO: 2024-09-28 19:21:56,976] Epoch 25 Batch 300 Loss 12.858, ICI Loss 0.357, Entropy loss 12.501.
+[INFO: 2024-09-28 19:22:00,782] Epoch 26 Batch 0 Loss 13.364, ICI Loss 0.935, Entropy loss 12.429.
+[INFO: 2024-09-28 19:22:25,130] Epoch 26 Batch 50 Loss 12.935, ICI Loss 0.550, Entropy loss 12.384.
+[INFO: 2024-09-28 19:31:13,833] Epoch 0 Batch 0 / 304 Loss 14.191, ICI Loss 0.635, Entropy loss 13.556.
+[INFO: 2024-09-28 19:32:04,243] Epoch 0 Batch 0 / 304 Loss 14.216, ICI Loss 0.636, Entropy loss 13.580.
+[INFO: 2024-09-28 19:32:27,311] Epoch 0 Batch 50 / 304 Loss 13.154, ICI Loss 0.579, Entropy loss 12.575.
+[INFO: 2024-09-28 19:32:53,142] Epoch 0 Batch 100 / 304 Loss 13.207, ICI Loss 0.920, Entropy loss 12.287.
+[INFO: 2024-09-28 19:33:17,112] Epoch 0 Batch 150 / 304 Loss 13.186, ICI Loss 0.702, Entropy loss 12.485.
+[INFO: 2024-09-28 19:33:42,862] Epoch 0 Batch 200 / 304 Loss 13.086, ICI Loss 0.614, Entropy loss 12.471.
+[INFO: 2024-09-28 19:34:06,955] Epoch 0 Batch 250 / 304 Loss 13.271, ICI Loss 0.709, Entropy loss 12.562.
+[INFO: 2024-09-28 19:34:32,284] Epoch 0 Batch 300 / 304 Loss 12.955, ICI Loss 0.225, Entropy loss 12.730.
+[INFO: 2024-09-28 19:35:02,687] Epoch 0 Val Loss 13.898, Val ICI Loss 0.632, Val Entropy loss 13.266.
+[INFO: 2024-09-28 19:35:06,039] Epoch 1 Batch 0 / 304 Loss 13.587, ICI Loss 0.649, Entropy loss 12.938.
+[INFO: 2024-09-28 19:35:30,768] Epoch 1 Batch 50 / 304 Loss 13.539, ICI Loss 0.591, Entropy loss 12.948.
+[INFO: 2024-09-28 19:36:40,535] Epoch 0 Batch 0 / 304 Loss 14.219, ICI Loss 0.636, Entropy loss 13.582.
+[INFO: 2024-09-28 19:37:03,964] Epoch 0 Batch 50 / 304 Loss 13.141, ICI Loss 0.581, Entropy loss 12.560.
+[INFO: 2024-09-28 19:37:30,530] Epoch 0 Batch 100 / 304 Loss 13.261, ICI Loss 0.956, Entropy loss 12.305.
+[INFO: 2024-09-28 19:37:54,020] Epoch 0 Batch 150 / 304 Loss 12.968, ICI Loss 0.591, Entropy loss 12.377.
+[INFO: 2024-09-28 19:38:18,730] Epoch 0 Batch 200 / 304 Loss 13.136, ICI Loss 0.590, Entropy loss 12.546.
+[INFO: 2024-09-28 19:38:43,564] Epoch 0 Batch 250 / 304 Loss 13.324, ICI Loss 0.681, Entropy loss 12.643.
+[INFO: 2024-09-28 19:39:08,493] Epoch 0 Batch 300 / 304 Loss 12.906, ICI Loss 0.199, Entropy loss 12.707.
+[INFO: 2024-09-28 19:39:39,305] Epoch 0 Val Loss 13.864, Val ICI Loss 0.610, Val Entropy loss 13.254.
+[INFO: 2024-09-28 19:39:42,716] Epoch 1 Batch 0 / 304 Loss 13.355, ICI Loss 0.586, Entropy loss 12.769.
+[INFO: 2024-09-28 19:40:07,995] Epoch 1 Batch 50 / 304 Loss 13.677, ICI Loss 0.586, Entropy loss 13.090.
+[INFO: 2024-09-28 19:40:33,241] Epoch 1 Batch 100 / 304 Loss 13.668, ICI Loss 0.798, Entropy loss 12.870.
+[INFO: 2024-09-28 19:40:57,144] Epoch 1 Batch 150 / 304 Loss 13.517, ICI Loss 0.543, Entropy loss 12.974.
+[INFO: 2024-09-28 19:41:38,625] Epoch 0 Batch 0 / 304 Loss 14.218, ICI Loss 0.689, Entropy loss 13.529.
+[INFO: 2024-09-28 19:42:01,689] Epoch 0 Batch 50 / 304 Loss 13.154, ICI Loss 0.577, Entropy loss 12.578.
+[INFO: 2024-09-28 19:42:27,601] Epoch 0 Batch 100 / 304 Loss 13.192, ICI Loss 0.861, Entropy loss 12.331.
+[INFO: 2024-09-28 19:42:51,744] Epoch 0 Batch 150 / 304 Loss 13.114, ICI Loss 0.694, Entropy loss 12.420.
+[INFO: 2024-09-28 19:43:18,010] Epoch 0 Batch 200 / 304 Loss 13.113, ICI Loss 0.563, Entropy loss 12.551.
+[INFO: 2024-09-28 19:43:42,728] Epoch 0 Batch 250 / 304 Loss 13.490, ICI Loss 0.798, Entropy loss 12.692.
+[INFO: 2024-09-28 19:44:08,799] Epoch 0 Batch 300 / 304 Loss 12.952, ICI Loss 0.219, Entropy loss 12.733.
+[INFO: 2024-09-28 19:44:38,525] Epoch 0 Val Loss 13.848, Val ICI Loss 0.635, Val Entropy loss 13.213.
+[INFO: 2024-09-28 19:44:42,060] Epoch 1 Batch 0 / 304 Loss 13.334, ICI Loss 0.613, Entropy loss 12.721.
+[INFO: 2024-09-28 19:45:06,985] Epoch 1 Batch 50 / 304 Loss 13.442, ICI Loss 0.580, Entropy loss 12.862.
+[INFO: 2024-09-28 19:45:32,806] Epoch 1 Batch 100 / 304 Loss 13.655, ICI Loss 0.814, Entropy loss 12.841.
+[INFO: 2024-09-28 19:45:57,377] Epoch 1 Batch 150 / 304 Loss 14.047, ICI Loss 0.582, Entropy loss 13.465.
+[INFO: 2024-09-28 19:46:22,352] Epoch 1 Batch 200 / 304 Loss 13.986, ICI Loss 0.919, Entropy loss 13.067.
+[INFO: 2024-09-28 19:46:46,861] Epoch 1 Batch 250 / 304 Loss 13.512, ICI Loss 0.516, Entropy loss 12.996.
+[INFO: 2024-09-28 19:47:11,477] Epoch 1 Batch 300 / 304 Loss 21.737, ICI Loss 0.814, Entropy loss 20.923.
+[INFO: 2024-09-28 19:47:40,064] Epoch 1 Val Loss 14.181, Val ICI Loss 0.708, Val Entropy loss 13.473.
+[INFO: 2024-09-28 19:47:43,503] Epoch 2 Batch 0 / 304 Loss 14.419, ICI Loss 0.974, Entropy loss 13.445.
+[INFO: 2024-09-28 19:48:08,241] Epoch 2 Batch 50 / 304 Loss 13.836, ICI Loss 0.685, Entropy loss 13.150.
+[INFO: 2024-09-28 19:48:32,488] Epoch 2 Batch 100 / 304 Loss 13.948, ICI Loss 0.763, Entropy loss 13.185.
+[INFO: 2024-09-28 19:48:57,534] Epoch 2 Batch 150 / 304 Loss 13.768, ICI Loss 0.719, Entropy loss 13.049.
+[INFO: 2024-09-28 19:49:21,432] Epoch 2 Batch 200 / 304 Loss 13.728, ICI Loss 0.572, Entropy loss 13.156.
+[INFO: 2024-09-28 19:49:45,875] Epoch 2 Batch 250 / 304 Loss 13.915, ICI Loss 0.755, Entropy loss 13.160.
+[INFO: 2024-09-28 19:50:11,278] Epoch 2 Batch 300 / 304 Loss 14.147, ICI Loss 1.096, Entropy loss 13.051.
+[INFO: 2024-09-28 19:50:40,556] Epoch 2 Val Loss 14.209, Val ICI Loss 0.773, Val Entropy loss 13.436.
+[INFO: 2024-09-28 19:50:44,096] Epoch 3 Batch 0 / 304 Loss 14.354, ICI Loss 1.111, Entropy loss 13.242.
+[INFO: 2024-09-28 19:51:09,109] Epoch 3 Batch 50 / 304 Loss 13.738, ICI Loss 0.573, Entropy loss 13.165.
+[INFO: 2024-09-28 19:51:34,614] Epoch 3 Batch 100 / 304 Loss 13.813, ICI Loss 0.643, Entropy loss 13.171.
+[INFO: 2024-09-28 19:51:58,751] Epoch 3 Batch 150 / 304 Loss 13.850, ICI Loss 0.712, Entropy loss 13.138.
+[INFO: 2024-09-28 19:52:23,726] Epoch 3 Batch 200 / 304 Loss 13.830, ICI Loss 0.684, Entropy loss 13.146.
+[INFO: 2024-09-28 19:52:48,681] Epoch 3 Batch 250 / 304 Loss 13.587, ICI Loss 0.540, Entropy loss 13.047.
+[INFO: 2024-09-28 19:53:14,390] Epoch 3 Batch 300 / 304 Loss 14.063, ICI Loss 0.924, Entropy loss 13.140.
+[INFO: 2024-09-28 19:53:43,631] Epoch 3 Val Loss 14.382, Val ICI Loss 0.874, Val Entropy loss 13.508.
+[INFO: 2024-09-28 19:53:47,118] Epoch 4 Batch 0 / 304 Loss 13.874, ICI Loss 0.593, Entropy loss 13.281.
+[INFO: 2024-09-28 19:54:12,197] Epoch 4 Batch 50 / 304 Loss 14.118, ICI Loss 1.018, Entropy loss 13.099.
+[INFO: 2024-09-28 19:54:38,174] Epoch 4 Batch 100 / 304 Loss 13.589, ICI Loss 0.583, Entropy loss 13.005.
+[INFO: 2024-09-28 19:55:02,638] Epoch 4 Batch 150 / 304 Loss 13.607, ICI Loss 0.752, Entropy loss 12.855.
+[INFO: 2024-09-28 19:55:28,142] Epoch 4 Batch 200 / 304 Loss 13.597, ICI Loss 0.533, Entropy loss 13.064.
+[INFO: 2024-09-28 19:55:53,076] Epoch 4 Batch 250 / 304 Loss 14.329, ICI Loss 1.009, Entropy loss 13.320.
+[INFO: 2024-09-28 19:56:18,908] Epoch 4 Batch 300 / 304 Loss 13.942, ICI Loss 1.010, Entropy loss 12.933.
+[INFO: 2024-09-28 19:56:49,822] Epoch 4 Val Loss 14.212, Val ICI Loss 0.838, Val Entropy loss 13.375.
+[INFO: 2024-09-28 19:56:53,212] Epoch 5 Batch 0 / 304 Loss 13.944, ICI Loss 0.851, Entropy loss 13.093.
+[INFO: 2024-09-28 19:57:18,554] Epoch 5 Batch 50 / 304 Loss 13.427, ICI Loss 0.474, Entropy loss 12.953.
+[INFO: 2024-09-28 19:57:44,140] Epoch 5 Batch 100 / 304 Loss 13.961, ICI Loss 0.895, Entropy loss 13.066.
+[INFO: 2024-09-28 19:58:08,872] Epoch 5 Batch 150 / 304 Loss 14.201, ICI Loss 1.162, Entropy loss 13.039.
+[INFO: 2024-09-28 19:58:34,191] Epoch 5 Batch 200 / 304 Loss 13.743, ICI Loss 0.669, Entropy loss 13.073.
+[INFO: 2024-09-28 19:58:58,270] Epoch 5 Batch 250 / 304 Loss 14.056, ICI Loss 0.983, Entropy loss 13.073.
+[INFO: 2024-09-28 19:59:23,741] Epoch 5 Batch 300 / 304 Loss 13.540, ICI Loss 0.663, Entropy loss 12.877.
+[INFO: 2024-09-28 19:59:53,322] Epoch 5 Val Loss 14.203, Val ICI Loss 0.882, Val Entropy loss 13.322.
+[INFO: 2024-09-28 19:59:56,795] Epoch 6 Batch 0 / 304 Loss 13.514, ICI Loss 0.603, Entropy loss 12.911.
+[INFO: 2024-09-28 20:00:21,440] Epoch 6 Batch 50 / 304 Loss 23.626, ICI Loss 0.921, Entropy loss 22.705.
+[INFO: 2024-09-28 20:00:47,155] Epoch 6 Batch 100 / 304 Loss 13.611, ICI Loss 0.472, Entropy loss 13.139.
+[INFO: 2024-09-28 20:01:11,434] Epoch 6 Batch 150 / 304 Loss 13.833, ICI Loss 0.850, Entropy loss 12.982.
+[INFO: 2024-09-28 20:01:36,382] Epoch 6 Batch 200 / 304 Loss 13.679, ICI Loss 0.841, Entropy loss 12.838.
+[INFO: 2024-09-28 20:02:01,141] Epoch 6 Batch 250 / 304 Loss 13.380, ICI Loss 0.428, Entropy loss 12.952.
+[INFO: 2024-09-28 20:02:25,549] Epoch 6 Batch 300 / 304 Loss 13.901, ICI Loss 1.064, Entropy loss 12.836.
+[INFO: 2024-09-28 20:02:55,656] Epoch 6 Val Loss 14.199, Val ICI Loss 0.836, Val Entropy loss 13.364.
+[INFO: 2024-09-28 20:02:59,190] Epoch 7 Batch 0 / 304 Loss 14.059, ICI Loss 1.238, Entropy loss 12.821.
+[INFO: 2024-09-28 20:03:24,197] Epoch 7 Batch 50 / 304 Loss 13.780, ICI Loss 0.851, Entropy loss 12.929.
+[INFO: 2024-09-28 20:03:50,919] Epoch 7 Batch 100 / 304 Loss 13.451, ICI Loss 0.565, Entropy loss 12.886.
+[INFO: 2024-09-28 20:04:15,740] Epoch 7 Batch 150 / 304 Loss 13.561, ICI Loss 0.786, Entropy loss 12.775.
+[INFO: 2024-09-28 20:04:42,446] Epoch 7 Batch 200 / 304 Loss 13.964, ICI Loss 0.934, Entropy loss 13.030.
+[INFO: 2024-09-28 20:05:07,240] Epoch 7 Batch 250 / 304 Loss 13.508, ICI Loss 0.570, Entropy loss 12.938.
+[INFO: 2024-09-28 20:05:32,884] Epoch 7 Batch 300 / 304 Loss 13.387, ICI Loss 0.511, Entropy loss 12.876.
+[INFO: 2024-09-28 20:06:01,312] Epoch 7 Val Loss 13.915, Val ICI Loss 0.806, Val Entropy loss 13.110.
+[INFO: 2024-09-28 20:06:04,621] Epoch 8 Batch 0 / 304 Loss 13.445, ICI Loss 0.576, Entropy loss 12.869.
+[INFO: 2024-09-28 20:06:29,649] Epoch 8 Batch 50 / 304 Loss 14.067, ICI Loss 1.062, Entropy loss 13.006.
+[INFO: 2024-09-28 20:06:54,990] Epoch 8 Batch 100 / 304 Loss 13.884, ICI Loss 0.723, Entropy loss 13.161.
+[INFO: 2024-09-28 20:07:19,715] Epoch 8 Batch 150 / 304 Loss 13.603, ICI Loss 0.537, Entropy loss 13.066.
+[INFO: 2024-09-28 20:07:45,419] Epoch 8 Batch 200 / 304 Loss 13.570, ICI Loss 0.757, Entropy loss 12.813.
+[INFO: 2024-09-28 20:08:10,146] Epoch 8 Batch 250 / 304 Loss 13.653, ICI Loss 0.695, Entropy loss 12.958.
+[INFO: 2024-09-28 20:08:35,995] Epoch 8 Batch 300 / 304 Loss 13.636, ICI Loss 0.736, Entropy loss 12.900.
+[INFO: 2024-09-28 20:09:05,583] Epoch 8 Val Loss 13.860, Val ICI Loss 0.795, Val Entropy loss 13.065.
+[INFO: 2024-09-28 20:09:08,946] Epoch 9 Batch 0 / 304 Loss 13.754, ICI Loss 0.727, Entropy loss 13.027.
+[INFO: 2024-09-28 20:09:33,282] Epoch 9 Batch 50 / 304 Loss 13.769, ICI Loss 1.012, Entropy loss 12.757.
+[INFO: 2024-09-28 20:09:59,188] Epoch 9 Batch 100 / 304 Loss 13.715, ICI Loss 0.734, Entropy loss 12.981.
+[INFO: 2024-09-28 20:10:24,239] Epoch 9 Batch 150 / 304 Loss 13.994, ICI Loss 1.071, Entropy loss 12.923.
+[INFO: 2024-09-28 20:10:50,466] Epoch 9 Batch 200 / 304 Loss 13.798, ICI Loss 0.973, Entropy loss 12.825.
+[INFO: 2024-09-28 20:11:16,531] Epoch 9 Batch 250 / 304 Loss 13.265, ICI Loss 0.532, Entropy loss 12.733.
+[INFO: 2024-09-28 20:11:42,488] Epoch 9 Batch 300 / 304 Loss 13.856, ICI Loss 1.113, Entropy loss 12.743.
+[INFO: 2024-09-28 20:12:15,032] Epoch 9 Val Loss 14.069, Val ICI Loss 0.853, Val Entropy loss 13.216.
+[INFO: 2024-09-28 20:12:18,670] Epoch 10 Batch 0 / 304 Loss 13.514, ICI Loss 0.563, Entropy loss 12.951.
+[INFO: 2024-09-28 20:12:45,114] Epoch 10 Batch 50 / 304 Loss 13.410, ICI Loss 0.678, Entropy loss 12.732.
+[INFO: 2024-09-28 20:13:12,150] Epoch 10 Batch 100 / 304 Loss 13.798, ICI Loss 1.123, Entropy loss 12.675.
+[INFO: 2024-09-28 20:13:38,200] Epoch 10 Batch 150 / 304 Loss 13.549, ICI Loss 0.855, Entropy loss 12.694.
+[INFO: 2024-09-28 20:14:05,036] Epoch 10 Batch 200 / 304 Loss 13.584, ICI Loss 0.904, Entropy loss 12.680.
+[INFO: 2024-09-28 20:14:30,315] Epoch 10 Batch 250 / 304 Loss 13.530, ICI Loss 0.702, Entropy loss 12.828.
+[INFO: 2024-09-28 20:14:55,933] Epoch 10 Batch 300 / 304 Loss 17.208, ICI Loss 1.299, Entropy loss 15.909.
+[INFO: 2024-09-28 20:15:26,177] Epoch 10 Val Loss 14.078, Val ICI Loss 0.911, Val Entropy loss 13.167.
+[INFO: 2024-09-28 20:15:29,599] Epoch 11 Batch 0 / 304 Loss 13.676, ICI Loss 0.823, Entropy loss 12.854.
+[INFO: 2024-09-28 20:15:54,908] Epoch 11 Batch 50 / 304 Loss 13.262, ICI Loss 0.490, Entropy loss 12.772.
+[INFO: 2024-09-28 20:16:21,191] Epoch 11 Batch 100 / 304 Loss 13.390, ICI Loss 0.593, Entropy loss 12.797.
+[INFO: 2024-09-28 20:16:46,269] Epoch 11 Batch 150 / 304 Loss 13.671, ICI Loss 0.742, Entropy loss 12.930.
+[INFO: 2024-09-28 20:17:12,512] Epoch 11 Batch 200 / 304 Loss 13.622, ICI Loss 0.768, Entropy loss 12.854.
+[INFO: 2024-09-28 20:17:37,459] Epoch 11 Batch 250 / 304 Loss 13.545, ICI Loss 0.793, Entropy loss 12.752.
+[INFO: 2024-09-28 20:18:03,178] Epoch 11 Batch 300 / 304 Loss 13.578, ICI Loss 0.797, Entropy loss 12.782.
+[INFO: 2024-09-28 20:18:33,036] Epoch 11 Val Loss 13.862, Val ICI Loss 0.796, Val Entropy loss 13.066.
+[INFO: 2024-09-28 20:18:36,454] Epoch 12 Batch 0 / 304 Loss 13.452, ICI Loss 0.626, Entropy loss 12.825.
+[INFO: 2024-09-28 20:19:01,469] Epoch 12 Batch 50 / 304 Loss 13.367, ICI Loss 0.561, Entropy loss 12.806.
+[INFO: 2024-09-28 20:19:27,077] Epoch 12 Batch 100 / 304 Loss 13.314, ICI Loss 0.632, Entropy loss 12.681.
+[INFO: 2024-09-28 20:19:50,933] Epoch 12 Batch 150 / 304 Loss 13.268, ICI Loss 0.655, Entropy loss 12.613.
+[INFO: 2024-09-28 20:20:16,509] Epoch 12 Batch 200 / 304 Loss 14.058, ICI Loss 0.914, Entropy loss 13.144.
+[INFO: 2024-09-28 20:20:40,531] Epoch 12 Batch 250 / 304 Loss 13.251, ICI Loss 0.485, Entropy loss 12.766.
+[INFO: 2024-09-28 20:21:06,122] Epoch 12 Batch 300 / 304 Loss 13.459, ICI Loss 0.714, Entropy loss 12.745.
+[INFO: 2024-09-28 20:21:35,449] Epoch 12 Val Loss 13.816, Val ICI Loss 0.758, Val Entropy loss 13.058.
+[INFO: 2024-09-28 20:21:39,149] Epoch 13 Batch 0 / 304 Loss 13.252, ICI Loss 0.646, Entropy loss 12.605.
+[INFO: 2024-09-28 20:22:03,857] Epoch 13 Batch 50 / 304 Loss 13.220, ICI Loss 0.536, Entropy loss 12.684.
+[INFO: 2024-09-28 20:22:30,127] Epoch 13 Batch 100 / 304 Loss 13.509, ICI Loss 0.807, Entropy loss 12.702.
+[INFO: 2024-09-28 20:22:55,071] Epoch 13 Batch 150 / 304 Loss 13.714, ICI Loss 0.879, Entropy loss 12.835.
+[INFO: 2024-09-28 20:23:19,610] Epoch 13 Batch 200 / 304 Loss 13.650, ICI Loss 0.919, Entropy loss 12.731.
+[INFO: 2024-09-28 20:23:44,173] Epoch 13 Batch 250 / 304 Loss 13.302, ICI Loss 0.635, Entropy loss 12.667.
+[INFO: 2024-09-28 20:24:09,730] Epoch 13 Batch 300 / 304 Loss 13.300, ICI Loss 0.652, Entropy loss 12.648.
+[INFO: 2024-09-28 20:24:39,661] Epoch 13 Val Loss 13.926, Val ICI Loss 0.784, Val Entropy loss 13.142.
+[INFO: 2024-09-28 20:24:42,953] Epoch 14 Batch 0 / 304 Loss 13.141, ICI Loss 0.572, Entropy loss 12.569.
+[INFO: 2024-09-28 20:25:08,160] Epoch 14 Batch 50 / 304 Loss 13.471, ICI Loss 0.860, Entropy loss 12.611.
+[INFO: 2024-09-28 20:25:34,170] Epoch 14 Batch 100 / 304 Loss 13.302, ICI Loss 0.585, Entropy loss 12.716.
+[INFO: 2024-09-28 20:25:59,936] Epoch 14 Batch 150 / 304 Loss 13.538, ICI Loss 0.711, Entropy loss 12.828.
+[INFO: 2024-09-28 20:26:25,179] Epoch 14 Batch 200 / 304 Loss 13.436, ICI Loss 0.826, Entropy loss 12.610.
+[INFO: 2024-09-28 20:26:51,647] Epoch 14 Batch 250 / 304 Loss 13.767, ICI Loss 0.921, Entropy loss 12.846.
+[INFO: 2024-09-28 20:27:16,744] Epoch 14 Batch 300 / 304 Loss 13.758, ICI Loss 1.115, Entropy loss 12.643.
+[INFO: 2024-09-28 20:27:48,312] Epoch 14 Val Loss 13.563, Val ICI Loss 0.711, Val Entropy loss 12.853.
+[INFO: 2024-09-28 20:27:51,981] Epoch 15 Batch 0 / 304 Loss 13.288, ICI Loss 0.722, Entropy loss 12.566.
+[INFO: 2024-09-28 20:28:17,348] Epoch 15 Batch 50 / 304 Loss 13.439, ICI Loss 0.781, Entropy loss 12.658.
+[INFO: 2024-09-28 20:28:42,010] Epoch 15 Batch 100 / 304 Loss 13.115, ICI Loss 0.432, Entropy loss 12.684.
+[INFO: 2024-09-28 20:29:07,653] Epoch 15 Batch 150 / 304 Loss 13.509, ICI Loss 0.826, Entropy loss 12.683.
+[INFO: 2024-09-28 20:29:32,642] Epoch 15 Batch 200 / 304 Loss 14.619, ICI Loss 1.002, Entropy loss 13.617.
+[INFO: 2024-09-28 20:29:58,384] Epoch 15 Batch 250 / 304 Loss 13.122, ICI Loss 0.421, Entropy loss 12.701.
+[INFO: 2024-09-28 20:30:22,948] Epoch 15 Batch 300 / 304 Loss 13.514, ICI Loss 0.879, Entropy loss 12.635.
+[INFO: 2024-09-28 20:30:54,018] Epoch 15 Val Loss 14.196, Val ICI Loss 0.796, Val Entropy loss 13.400.
+[INFO: 2024-09-28 20:30:57,452] Epoch 16 Batch 0 / 304 Loss 13.365, ICI Loss 0.764, Entropy loss 12.601.
+[INFO: 2024-09-28 20:31:22,493] Epoch 16 Batch 50 / 304 Loss 12.952, ICI Loss 0.485, Entropy loss 12.466.
+[INFO: 2024-09-28 20:31:48,135] Epoch 16 Batch 100 / 304 Loss 13.279, ICI Loss 0.662, Entropy loss 12.616.
+[INFO: 2024-09-28 20:32:12,467] Epoch 16 Batch 150 / 304 Loss 13.502, ICI Loss 0.922, Entropy loss 12.580.
+[INFO: 2024-09-28 20:32:39,188] Epoch 16 Batch 200 / 304 Loss 13.364, ICI Loss 0.678, Entropy loss 12.686.
+[INFO: 2024-09-28 20:33:04,584] Epoch 16 Batch 250 / 304 Loss 13.323, ICI Loss 0.737, Entropy loss 12.586.
+[INFO: 2024-09-28 20:33:30,593] Epoch 16 Batch 300 / 304 Loss 13.419, ICI Loss 0.738, Entropy loss 12.680.
+[INFO: 2024-09-28 20:34:00,685] Epoch 16 Val Loss 13.900, Val ICI Loss 0.795, Val Entropy loss 13.105.
+[INFO: 2024-09-28 20:34:04,144] Epoch 17 Batch 0 / 304 Loss 13.412, ICI Loss 0.648, Entropy loss 12.764.
+[INFO: 2024-09-28 20:34:29,809] Epoch 17 Batch 50 / 304 Loss 13.596, ICI Loss 0.953, Entropy loss 12.643.
+[INFO: 2024-09-28 20:34:55,392] Epoch 17 Batch 100 / 304 Loss 13.322, ICI Loss 0.790, Entropy loss 12.532.
+[INFO: 2024-09-28 20:35:19,860] Epoch 17 Batch 150 / 304 Loss 13.294, ICI Loss 0.768, Entropy loss 12.526.
+[INFO: 2024-09-28 20:35:45,748] Epoch 17 Batch 200 / 304 Loss 13.561, ICI Loss 0.826, Entropy loss 12.735.
+[INFO: 2024-09-28 20:36:09,744] Epoch 17 Batch 250 / 304 Loss 13.179, ICI Loss 0.699, Entropy loss 12.480.
+[INFO: 2024-09-28 20:36:35,128] Epoch 17 Batch 300 / 304 Loss 13.035, ICI Loss 0.577, Entropy loss 12.458.
+[INFO: 2024-09-28 20:37:05,603] Epoch 17 Val Loss 13.545, Val ICI Loss 0.764, Val Entropy loss 12.781.
+[INFO: 2024-09-28 20:37:08,955] Epoch 18 Batch 0 / 304 Loss 13.102, ICI Loss 0.506, Entropy loss 12.596.
+[INFO: 2024-09-28 20:37:34,075] Epoch 18 Batch 50 / 304 Loss 13.445, ICI Loss 0.799, Entropy loss 12.645.
+[INFO: 2024-09-28 20:38:00,039] Epoch 18 Batch 100 / 304 Loss 12.853, ICI Loss 0.390, Entropy loss 12.463.
+[INFO: 2024-09-28 20:38:24,843] Epoch 18 Batch 150 / 304 Loss 13.011, ICI Loss 0.450, Entropy loss 12.560.
+[INFO: 2024-09-28 20:38:50,223] Epoch 18 Batch 200 / 304 Loss 13.351, ICI Loss 0.752, Entropy loss 12.598.
+[INFO: 2024-09-28 20:39:16,943] Epoch 18 Batch 250 / 304 Loss 13.225, ICI Loss 0.653, Entropy loss 12.572.
+[INFO: 2024-09-28 20:39:41,751] Epoch 18 Batch 300 / 304 Loss 13.546, ICI Loss 0.872, Entropy loss 12.674.
+[INFO: 2024-09-28 20:40:11,521] Epoch 18 Val Loss 13.610, Val ICI Loss 0.791, Val Entropy loss 12.819.
+[INFO: 2024-09-28 20:40:14,947] Epoch 19 Batch 0 / 304 Loss 13.467, ICI Loss 0.780, Entropy loss 12.687.
+[INFO: 2024-09-28 20:40:39,550] Epoch 19 Batch 50 / 304 Loss 16.691, ICI Loss 1.107, Entropy loss 15.584.
+[INFO: 2024-09-28 20:41:05,134] Epoch 19 Batch 100 / 304 Loss 13.331, ICI Loss 0.906, Entropy loss 12.426.
+[INFO: 2024-09-28 20:41:30,830] Epoch 19 Batch 150 / 304 Loss 13.078, ICI Loss 0.435, Entropy loss 12.643.
+[INFO: 2024-09-28 20:41:56,304] Epoch 19 Batch 200 / 304 Loss 13.027, ICI Loss 0.310, Entropy loss 12.717.
+[INFO: 2024-09-28 20:42:23,261] Epoch 19 Batch 250 / 304 Loss 13.276, ICI Loss 0.503, Entropy loss 12.773.
+[INFO: 2024-09-28 20:42:48,182] Epoch 19 Batch 300 / 304 Loss 13.400, ICI Loss 0.817, Entropy loss 12.584.
+[INFO: 2024-09-28 20:43:19,026] Epoch 19 Val Loss 13.788, Val ICI Loss 0.742, Val Entropy loss 13.046.
+[INFO: 2024-09-28 20:43:22,356] Epoch 20 Batch 0 / 304 Loss 13.490, ICI Loss 0.771, Entropy loss 12.719.
+[INFO: 2024-09-28 20:43:47,231] Epoch 20 Batch 50 / 304 Loss 13.212, ICI Loss 0.679, Entropy loss 12.533.
+[INFO: 2024-09-28 20:44:12,029] Epoch 20 Batch 100 / 304 Loss 13.203, ICI Loss 0.611, Entropy loss 12.592.
+[INFO: 2024-09-28 20:44:36,825] Epoch 20 Batch 150 / 304 Loss 13.182, ICI Loss 0.385, Entropy loss 12.797.
+[INFO: 2024-09-28 20:45:02,261] Epoch 20 Batch 200 / 304 Loss 13.060, ICI Loss 0.476, Entropy loss 12.584.
+[INFO: 2024-09-28 20:45:27,468] Epoch 20 Batch 250 / 304 Loss 13.798, ICI Loss 1.217, Entropy loss 12.581.
+[INFO: 2024-09-28 20:45:53,347] Epoch 20 Batch 300 / 304 Loss 13.060, ICI Loss 0.549, Entropy loss 12.511.
+[INFO: 2024-09-28 20:46:23,151] Epoch 20 Val Loss 13.333, Val ICI Loss 0.678, Val Entropy loss 12.655.
+[INFO: 2024-09-28 20:46:26,534] Epoch 21 Batch 0 / 304 Loss 13.123, ICI Loss 0.585, Entropy loss 12.538.
+[INFO: 2024-09-28 20:46:51,741] Epoch 21 Batch 50 / 304 Loss 13.102, ICI Loss 0.516, Entropy loss 12.586.
+[INFO: 2024-09-28 20:47:16,879] Epoch 21 Batch 100 / 304 Loss 13.006, ICI Loss 0.461, Entropy loss 12.545.
+[INFO: 2024-09-28 20:47:42,991] Epoch 21 Batch 150 / 304 Loss 13.362, ICI Loss 0.786, Entropy loss 12.576.
+[INFO: 2024-09-28 20:48:08,379] Epoch 21 Batch 200 / 304 Loss 13.020, ICI Loss 0.455, Entropy loss 12.565.
+[INFO: 2024-09-28 20:48:33,954] Epoch 21 Batch 250 / 304 Loss 16.259, ICI Loss 0.627, Entropy loss 15.631.
+[INFO: 2024-09-28 20:49:01,224] Epoch 21 Batch 300 / 304 Loss 13.390, ICI Loss 0.749, Entropy loss 12.641.
+[INFO: 2024-09-28 20:49:32,045] Epoch 21 Val Loss 13.557, Val ICI Loss 0.671, Val Entropy loss 12.887.
+[INFO: 2024-09-28 20:49:35,458] Epoch 22 Batch 0 / 304 Loss 13.203, ICI Loss 0.734, Entropy loss 12.469.
+[INFO: 2024-09-28 20:50:00,314] Epoch 22 Batch 50 / 304 Loss 13.144, ICI Loss 0.544, Entropy loss 12.600.
+[INFO: 2024-09-28 20:50:25,977] Epoch 22 Batch 100 / 304 Loss 13.188, ICI Loss 0.465, Entropy loss 12.723.
+[INFO: 2024-09-28 20:50:51,324] Epoch 22 Batch 150 / 304 Loss 12.713, ICI Loss 0.178, Entropy loss 12.535.
+[INFO: 2024-09-28 20:51:17,151] Epoch 22 Batch 200 / 304 Loss 12.883, ICI Loss 0.447, Entropy loss 12.436.
+[INFO: 2024-09-28 20:51:42,202] Epoch 22 Batch 250 / 304 Loss 12.880, ICI Loss 0.468, Entropy loss 12.412.
+[INFO: 2024-09-28 20:52:08,379] Epoch 22 Batch 300 / 304 Loss 13.544, ICI Loss 0.594, Entropy loss 12.950.
+[INFO: 2024-09-28 20:52:45,272] Epoch 22 Val Loss 13.648, Val ICI Loss 0.771, Val Entropy loss 12.877.
+[INFO: 2024-09-28 20:52:48,652] Epoch 23 Batch 0 / 304 Loss 13.133, ICI Loss 0.667, Entropy loss 12.465.
+[INFO: 2024-09-28 20:53:13,482] Epoch 23 Batch 50 / 304 Loss 12.857, ICI Loss 0.483, Entropy loss 12.374.
+[INFO: 2024-09-28 20:53:38,807] Epoch 23 Batch 100 / 304 Loss 12.697, ICI Loss 0.175, Entropy loss 12.522.
+[INFO: 2024-09-28 20:54:05,104] Epoch 23 Batch 150 / 304 Loss 12.902, ICI Loss 0.442, Entropy loss 12.460.
+[INFO: 2024-09-28 20:54:30,093] Epoch 23 Batch 200 / 304 Loss 13.015, ICI Loss 0.495, Entropy loss 12.521.
+[INFO: 2024-09-28 20:54:55,976] Epoch 23 Batch 250 / 304 Loss 13.234, ICI Loss 0.627, Entropy loss 12.607.
+[INFO: 2024-09-28 20:55:20,231] Epoch 23 Batch 300 / 304 Loss 12.850, ICI Loss 0.450, Entropy loss 12.400.
+[INFO: 2024-09-28 20:55:51,289] Epoch 23 Val Loss 13.522, Val ICI Loss 0.660, Val Entropy loss 12.863.
+[INFO: 2024-09-28 20:55:54,695] Epoch 24 Batch 0 / 304 Loss 13.537, ICI Loss 1.112, Entropy loss 12.426.
+[INFO: 2024-09-28 20:56:19,617] Epoch 24 Batch 50 / 304 Loss 13.222, ICI Loss 0.764, Entropy loss 12.458.
+[INFO: 2024-09-28 20:56:45,472] Epoch 24 Batch 100 / 304 Loss 13.136, ICI Loss 0.720, Entropy loss 12.416.
+[INFO: 2024-09-28 20:57:10,868] Epoch 24 Batch 150 / 304 Loss 12.873, ICI Loss 0.466, Entropy loss 12.407.
+[INFO: 2024-09-28 20:57:36,663] Epoch 24 Batch 200 / 304 Loss 12.973, ICI Loss 0.516, Entropy loss 12.457.
+[INFO: 2024-09-28 20:58:01,764] Epoch 24 Batch 250 / 304 Loss 13.559, ICI Loss 0.624, Entropy loss 12.936.
+[INFO: 2024-09-28 20:58:27,271] Epoch 24 Batch 300 / 304 Loss 12.761, ICI Loss 0.312, Entropy loss 12.449.
+[INFO: 2024-09-28 20:58:57,412] Epoch 24 Val Loss 13.656, Val ICI Loss 0.668, Val Entropy loss 12.988.
+[INFO: 2024-09-28 20:59:00,723] Epoch 25 Batch 0 / 304 Loss 13.061, ICI Loss 0.644, Entropy loss 12.417.
+[INFO: 2024-09-28 20:59:26,170] Epoch 25 Batch 50 / 304 Loss 13.299, ICI Loss 0.546, Entropy loss 12.753.
+[INFO: 2024-09-28 20:59:52,383] Epoch 25 Batch 100 / 304 Loss 12.853, ICI Loss 0.278, Entropy loss 12.575.
+[INFO: 2024-09-28 21:00:17,887] Epoch 25 Batch 150 / 304 Loss 13.224, ICI Loss 0.805, Entropy loss 12.419.
+[INFO: 2024-09-28 21:00:43,870] Epoch 25 Batch 200 / 304 Loss 12.980, ICI Loss 0.488, Entropy loss 12.492.
+[INFO: 2024-09-28 21:01:10,027] Epoch 25 Batch 250 / 304 Loss 13.685, ICI Loss 0.802, Entropy loss 12.883.
+[INFO: 2024-09-28 21:01:35,799] Epoch 25 Batch 300 / 304 Loss 13.024, ICI Loss 0.566, Entropy loss 12.458.
+[INFO: 2024-09-28 21:02:04,611] Epoch 25 Val Loss 13.394, Val ICI Loss 0.620, Val Entropy loss 12.774.
+[INFO: 2024-09-28 21:02:08,115] Epoch 26 Batch 0 / 304 Loss 13.432, ICI Loss 0.967, Entropy loss 12.466.
+[INFO: 2024-09-28 21:02:33,058] Epoch 26 Batch 50 / 304 Loss 13.127, ICI Loss 0.457, Entropy loss 12.671.
+[INFO: 2024-09-28 21:02:58,648] Epoch 26 Batch 100 / 304 Loss 12.888, ICI Loss 0.502, Entropy loss 12.386.
+[INFO: 2024-09-28 21:03:22,830] Epoch 26 Batch 150 / 304 Loss 13.003, ICI Loss 0.531, Entropy loss 12.472.
+[INFO: 2024-09-28 21:03:48,831] Epoch 26 Batch 200 / 304 Loss 13.328, ICI Loss 0.769, Entropy loss 12.559.
+[INFO: 2024-09-28 21:04:12,399] Epoch 26 Batch 250 / 304 Loss 12.983, ICI Loss 0.488, Entropy loss 12.495.
+[INFO: 2024-09-28 21:04:37,716] Epoch 26 Batch 300 / 304 Loss 12.952, ICI Loss 0.522, Entropy loss 12.429.
+[INFO: 2024-09-28 21:05:07,860] Epoch 26 Val Loss 13.540, Val ICI Loss 0.640, Val Entropy loss 12.900.
+[INFO: 2024-09-28 21:05:11,204] Epoch 27 Batch 0 / 304 Loss 13.147, ICI Loss 0.547, Entropy loss 12.600.
+[INFO: 2024-09-28 21:05:36,121] Epoch 27 Batch 50 / 304 Loss 13.563, ICI Loss 1.113, Entropy loss 12.451.
+[INFO: 2024-09-28 21:06:01,334] Epoch 27 Batch 100 / 304 Loss 13.015, ICI Loss 0.671, Entropy loss 12.344.
+[INFO: 2024-09-28 21:06:25,725] Epoch 27 Batch 150 / 304 Loss 12.921, ICI Loss 0.542, Entropy loss 12.379.
+[INFO: 2024-09-28 21:06:51,265] Epoch 27 Batch 200 / 304 Loss 22.283, ICI Loss 0.663, Entropy loss 21.620.
+[INFO: 2024-09-28 21:07:15,964] Epoch 27 Batch 250 / 304 Loss 12.652, ICI Loss 0.282, Entropy loss 12.370.
+[INFO: 2024-09-28 21:07:41,388] Epoch 27 Batch 300 / 304 Loss 12.826, ICI Loss 0.347, Entropy loss 12.479.
+[INFO: 2024-09-28 21:08:11,606] Epoch 27 Val Loss 13.212, Val ICI Loss 0.598, Val Entropy loss 12.614.
+[INFO: 2024-09-28 21:08:14,802] Epoch 28 Batch 0 / 304 Loss 12.842, ICI Loss 0.327, Entropy loss 12.515.
+[INFO: 2024-09-28 21:08:39,228] Epoch 28 Batch 50 / 304 Loss 12.728, ICI Loss 0.336, Entropy loss 12.392.
+[INFO: 2024-09-28 21:09:04,619] Epoch 28 Batch 100 / 304 Loss 13.121, ICI Loss 0.672, Entropy loss 12.448.
+[INFO: 2024-09-28 21:09:29,460] Epoch 28 Batch 150 / 304 Loss 13.195, ICI Loss 0.700, Entropy loss 12.495.
+[INFO: 2024-09-28 21:09:55,339] Epoch 28 Batch 200 / 304 Loss 13.283, ICI Loss 0.791, Entropy loss 12.492.
+[INFO: 2024-09-28 21:10:20,788] Epoch 28 Batch 250 / 304 Loss 12.724, ICI Loss 0.328, Entropy loss 12.396.
+[INFO: 2024-09-28 21:10:47,594] Epoch 28 Batch 300 / 304 Loss 13.312, ICI Loss 0.861, Entropy loss 12.451.
+[INFO: 2024-09-28 21:11:17,080] Epoch 28 Val Loss 13.174, Val ICI Loss 0.641, Val Entropy loss 12.533.
+[INFO: 2024-09-28 21:11:20,537] Epoch 29 Batch 0 / 304 Loss 12.920, ICI Loss 0.482, Entropy loss 12.438.
+[INFO: 2024-09-28 21:11:45,988] Epoch 29 Batch 50 / 304 Loss 12.794, ICI Loss 0.477, Entropy loss 12.317.
+[INFO: 2024-09-28 21:12:11,255] Epoch 29 Batch 100 / 304 Loss 13.159, ICI Loss 0.708, Entropy loss 12.452.
+[INFO: 2024-09-28 21:12:37,489] Epoch 29 Batch 150 / 304 Loss 13.049, ICI Loss 0.611, Entropy loss 12.438.
+[INFO: 2024-09-28 21:13:02,647] Epoch 29 Batch 200 / 304 Loss 13.312, ICI Loss 0.851, Entropy loss 12.461.
+[INFO: 2024-09-28 21:13:28,464] Epoch 29 Batch 250 / 304 Loss 12.638, ICI Loss 0.304, Entropy loss 12.334.
+[INFO: 2024-09-28 21:13:53,281] Epoch 29 Batch 300 / 304 Loss 12.788, ICI Loss 0.385, Entropy loss 12.404.
+[INFO: 2024-09-28 21:14:24,676] Epoch 29 Val Loss 13.377, Val ICI Loss 0.595, Val Entropy loss 12.783.
+[INFO: 2024-09-28 21:14:28,128] Epoch 30 Batch 0 / 304 Loss 13.594, ICI Loss 1.016, Entropy loss 12.577.
+[INFO: 2024-09-28 21:14:53,019] Epoch 30 Batch 50 / 304 Loss 13.044, ICI Loss 0.656, Entropy loss 12.387.
+[INFO: 2024-09-28 21:15:19,191] Epoch 30 Batch 100 / 304 Loss 13.094, ICI Loss 0.647, Entropy loss 12.447.
+[INFO: 2024-09-28 21:15:48,365] Epoch 30 Batch 150 / 304 Loss 13.034, ICI Loss 0.443, Entropy loss 12.591.
+[INFO: 2024-09-28 21:16:14,085] Epoch 30 Batch 200 / 304 Loss 12.811, ICI Loss 0.478, Entropy loss 12.333.
+[INFO: 2024-09-28 21:16:39,723] Epoch 30 Batch 250 / 304 Loss 13.185, ICI Loss 0.623, Entropy loss 12.562.
+[INFO: 2024-09-28 21:17:04,394] Epoch 30 Batch 300 / 304 Loss 12.704, ICI Loss 0.419, Entropy loss 12.285.
+[INFO: 2024-09-28 21:17:33,595] Epoch 30 Val Loss 13.202, Val ICI Loss 0.651, Val Entropy loss 12.551.
+[INFO: 2024-09-28 21:17:36,860] Epoch 31 Batch 0 / 304 Loss 12.872, ICI Loss 0.570, Entropy loss 12.303.
+[INFO: 2024-09-28 21:18:01,380] Epoch 31 Batch 50 / 304 Loss 13.090, ICI Loss 0.622, Entropy loss 12.468.
+[INFO: 2024-09-28 21:18:25,535] Epoch 31 Batch 100 / 304 Loss 13.129, ICI Loss 0.794, Entropy loss 12.335.
+[INFO: 2024-09-28 21:18:50,603] Epoch 31 Batch 150 / 304 Loss 12.785, ICI Loss 0.467, Entropy loss 12.317.
+[INFO: 2024-09-28 21:19:14,993] Epoch 31 Batch 200 / 304 Loss 13.111, ICI Loss 0.730, Entropy loss 12.381.
+[INFO: 2024-09-28 21:19:40,668] Epoch 31 Batch 250 / 304 Loss 12.948, ICI Loss 0.570, Entropy loss 12.378.
+[INFO: 2024-09-28 21:20:05,061] Epoch 31 Batch 300 / 304 Loss 12.563, ICI Loss 0.214, Entropy loss 12.349.
+[INFO: 2024-09-28 21:20:34,816] Epoch 31 Val Loss 13.080, Val ICI Loss 0.591, Val Entropy loss 12.489.
+[INFO: 2024-09-28 21:20:38,237] Epoch 32 Batch 0 / 304 Loss 13.023, ICI Loss 0.670, Entropy loss 12.353.
+[INFO: 2024-09-28 21:21:02,980] Epoch 32 Batch 50 / 304 Loss 12.667, ICI Loss 0.390, Entropy loss 12.277.
+[INFO: 2024-09-28 21:21:27,679] Epoch 32 Batch 100 / 304 Loss 12.830, ICI Loss 0.559, Entropy loss 12.271.
+[INFO: 2024-09-28 21:21:51,289] Epoch 32 Batch 150 / 304 Loss 12.948, ICI Loss 0.601, Entropy loss 12.346.
+[INFO: 2024-09-28 21:22:16,332] Epoch 32 Batch 200 / 304 Loss 12.942, ICI Loss 0.612, Entropy loss 12.330.
+[INFO: 2024-09-28 21:22:41,202] Epoch 32 Batch 250 / 304 Loss 12.761, ICI Loss 0.391, Entropy loss 12.370.
+[INFO: 2024-09-28 21:23:06,568] Epoch 32 Batch 300 / 304 Loss 12.778, ICI Loss 0.372, Entropy loss 12.406.
+[INFO: 2024-09-28 21:23:35,281] Epoch 32 Val Loss 13.274, Val ICI Loss 0.574, Val Entropy loss 12.700.
+[INFO: 2024-09-28 21:23:38,529] Epoch 33 Batch 0 / 304 Loss 12.912, ICI Loss 0.462, Entropy loss 12.450.
+[INFO: 2024-09-28 21:24:02,937] Epoch 33 Batch 50 / 304 Loss 12.942, ICI Loss 0.587, Entropy loss 12.355.
+[INFO: 2024-09-28 21:24:27,560] Epoch 33 Batch 100 / 304 Loss 12.891, ICI Loss 0.600, Entropy loss 12.292.
+[INFO: 2024-09-28 21:24:53,710] Epoch 33 Batch 150 / 304 Loss 12.476, ICI Loss 0.245, Entropy loss 12.231.
+[INFO: 2024-09-28 21:25:19,856] Epoch 33 Batch 200 / 304 Loss 13.063, ICI Loss 0.548, Entropy loss 12.515.
+[INFO: 2024-09-28 21:25:46,406] Epoch 33 Batch 250 / 304 Loss 12.846, ICI Loss 0.438, Entropy loss 12.408.
+[INFO: 2024-09-28 21:26:11,182] Epoch 33 Batch 300 / 304 Loss 13.123, ICI Loss 0.838, Entropy loss 12.286.
+[INFO: 2024-09-28 21:26:43,312] Epoch 33 Val Loss 13.075, Val ICI Loss 0.629, Val Entropy loss 12.446.
+[INFO: 2024-09-28 21:26:47,037] Epoch 34 Batch 0 / 304 Loss 12.993, ICI Loss 0.473, Entropy loss 12.521.
+[INFO: 2024-09-28 21:27:12,661] Epoch 34 Batch 50 / 304 Loss 12.586, ICI Loss 0.316, Entropy loss 12.271.
+[INFO: 2024-09-28 21:27:38,780] Epoch 34 Batch 100 / 304 Loss 12.510, ICI Loss 0.133, Entropy loss 12.377.
+[INFO: 2024-09-28 21:28:04,870] Epoch 34 Batch 150 / 304 Loss 12.656, ICI Loss 0.428, Entropy loss 12.228.
+[INFO: 2024-09-28 21:28:31,585] Epoch 34 Batch 200 / 304 Loss 12.950, ICI Loss 0.496, Entropy loss 12.454.
+[INFO: 2024-09-28 21:28:57,390] Epoch 34 Batch 250 / 304 Loss 12.732, ICI Loss 0.503, Entropy loss 12.229.
+[INFO: 2024-09-28 21:29:24,208] Epoch 34 Batch 300 / 304 Loss 12.905, ICI Loss 0.543, Entropy loss 12.361.
+[INFO: 2024-09-28 21:29:53,974] Epoch 34 Val Loss 12.977, Val ICI Loss 0.567, Val Entropy loss 12.411.
+[INFO: 2024-09-28 21:29:57,371] Epoch 35 Batch 0 / 304 Loss 12.765, ICI Loss 0.473, Entropy loss 12.292.
+[INFO: 2024-09-28 21:30:22,481] Epoch 35 Batch 50 / 304 Loss 12.717, ICI Loss 0.419, Entropy loss 12.298.
+[INFO: 2024-09-28 21:30:50,910] Epoch 35 Batch 100 / 304 Loss 13.017, ICI Loss 0.668, Entropy loss 12.348.
+[INFO: 2024-09-28 21:31:16,258] Epoch 35 Batch 150 / 304 Loss 12.896, ICI Loss 0.555, Entropy loss 12.341.
+[INFO: 2024-09-28 21:31:42,161] Epoch 35 Batch 200 / 304 Loss 13.078, ICI Loss 0.574, Entropy loss 12.504.
+[INFO: 2024-09-28 21:32:08,986] Epoch 35 Batch 250 / 304 Loss 12.948, ICI Loss 0.464, Entropy loss 12.484.
+[INFO: 2024-09-28 21:32:35,018] Epoch 35 Batch 300 / 304 Loss 12.658, ICI Loss 0.404, Entropy loss 12.253.
+[INFO: 2024-09-28 21:33:07,217] Epoch 35 Val Loss 13.082, Val ICI Loss 0.591, Val Entropy loss 12.491.
+[INFO: 2024-09-28 21:33:10,783] Epoch 36 Batch 0 / 304 Loss 12.853, ICI Loss 0.603, Entropy loss 12.250.
+[INFO: 2024-09-28 21:33:37,285] Epoch 36 Batch 50 / 304 Loss 12.810, ICI Loss 0.532, Entropy loss 12.278.
+[INFO: 2024-09-28 21:34:02,333] Epoch 36 Batch 100 / 304 Loss 13.080, ICI Loss 0.705, Entropy loss 12.376.
+[INFO: 2024-09-28 21:34:30,386] Epoch 36 Batch 150 / 304 Loss 12.713, ICI Loss 0.311, Entropy loss 12.402.
+[INFO: 2024-09-28 21:34:57,169] Epoch 36 Batch 200 / 304 Loss 13.149, ICI Loss 0.846, Entropy loss 12.303.
+[INFO: 2024-09-28 21:35:24,369] Epoch 36 Batch 250 / 304 Loss 12.809, ICI Loss 0.560, Entropy loss 12.249.
+[INFO: 2024-09-28 21:35:50,141] Epoch 36 Batch 300 / 304 Loss 12.861, ICI Loss 0.499, Entropy loss 12.362.
+[INFO: 2024-09-28 21:36:24,698] Epoch 36 Val Loss 13.182, Val ICI Loss 0.582, Val Entropy loss 12.600.
+[INFO: 2024-09-28 21:36:28,390] Epoch 37 Batch 0 / 304 Loss 13.034, ICI Loss 0.523, Entropy loss 12.511.
+[INFO: 2024-09-28 21:36:54,307] Epoch 37 Batch 50 / 304 Loss 12.942, ICI Loss 0.614, Entropy loss 12.328.
+[INFO: 2024-09-28 21:37:21,464] Epoch 37 Batch 100 / 304 Loss 12.796, ICI Loss 0.531, Entropy loss 12.266.
+[INFO: 2024-09-28 21:37:47,885] Epoch 37 Batch 150 / 304 Loss 12.681, ICI Loss 0.333, Entropy loss 12.347.
+[INFO: 2024-09-28 21:38:15,483] Epoch 37 Batch 200 / 304 Loss 13.049, ICI Loss 0.626, Entropy loss 12.424.
+[INFO: 2024-09-28 21:38:40,628] Epoch 37 Batch 250 / 304 Loss 12.905, ICI Loss 0.650, Entropy loss 12.255.
+[INFO: 2024-09-28 21:39:07,436] Epoch 37 Batch 300 / 304 Loss 12.960, ICI Loss 0.594, Entropy loss 12.366.
+[INFO: 2024-09-28 21:39:38,630] Epoch 37 Val Loss 13.075, Val ICI Loss 0.585, Val Entropy loss 12.490.
+[INFO: 2024-09-28 21:39:42,075] Epoch 38 Batch 0 / 304 Loss 12.929, ICI Loss 0.555, Entropy loss 12.374.
+[INFO: 2024-09-28 21:40:07,837] Epoch 38 Batch 50 / 304 Loss 12.752, ICI Loss 0.433, Entropy loss 12.319.
+[INFO: 2024-09-28 21:40:34,788] Epoch 38 Batch 100 / 304 Loss 12.650, ICI Loss 0.442, Entropy loss 12.208.
+[INFO: 2024-09-28 21:41:01,466] Epoch 38 Batch 150 / 304 Loss 12.694, ICI Loss 0.439, Entropy loss 12.256.
+[INFO: 2024-09-28 21:41:28,870] Epoch 38 Batch 200 / 304 Loss 12.672, ICI Loss 0.468, Entropy loss 12.204.
+[INFO: 2024-09-28 21:41:56,071] Epoch 38 Batch 250 / 304 Loss 12.897, ICI Loss 0.570, Entropy loss 12.327.
+[INFO: 2024-09-28 21:42:24,279] Epoch 38 Batch 300 / 304 Loss 12.639, ICI Loss 0.470, Entropy loss 12.169.
+[INFO: 2024-09-28 21:42:55,488] Epoch 38 Val Loss 13.109, Val ICI Loss 0.499, Val Entropy loss 12.611.
+[INFO: 2024-09-28 21:42:58,945] Epoch 39 Batch 0 / 304 Loss 12.793, ICI Loss 0.473, Entropy loss 12.320.
+[INFO: 2024-09-28 21:43:25,561] Epoch 39 Batch 50 / 304 Loss 12.668, ICI Loss 0.439, Entropy loss 12.229.
+[INFO: 2024-09-28 21:43:50,974] Epoch 39 Batch 100 / 304 Loss 12.800, ICI Loss 0.479, Entropy loss 12.321.
+[INFO: 2024-09-28 21:44:17,426] Epoch 39 Batch 150 / 304 Loss 12.787, ICI Loss 0.512, Entropy loss 12.275.
+[INFO: 2024-09-28 21:44:43,161] Epoch 39 Batch 200 / 304 Loss 12.593, ICI Loss 0.337, Entropy loss 12.256.
+[INFO: 2024-09-28 21:45:09,708] Epoch 39 Batch 250 / 304 Loss 12.436, ICI Loss 0.170, Entropy loss 12.266.
+[INFO: 2024-09-28 21:45:34,095] Epoch 39 Batch 300 / 304 Loss 12.687, ICI Loss 0.345, Entropy loss 12.342.
+[INFO: 2024-09-28 21:46:04,837] Epoch 39 Val Loss 13.116, Val ICI Loss 0.580, Val Entropy loss 12.536.
