@@ -173,7 +173,7 @@ def main():
         lifespan=lifespan
     )
     app.include_router(router)
-    uvicorn.run(app, port=8001)
+    uvicorn.run(app, port=8001, host='0.0.0.0')
 
 
 if __name__ == '__main__':
