@@ -1,0 +1,12 @@
+requests~=2.32.3
+uvicorn~=0.31.0
+pyffmpeg~=2.4.2.18.1
+fastapi~=0.115.0
+pydantic~=2.9.2
+pandas 
+pymilvus
+torch
+torchvision
+glob2
+pillow
+numpy==1.26.4
