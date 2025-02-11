@@ -1,4 +1,4 @@
-transformers==4.45.1
+transformers==4.48.0
 timm==0.6.12
 classy-vision==0.6.0
 mmcv==1.7.1
